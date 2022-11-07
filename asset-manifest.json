@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://hannastockholm22.github.io/csb-ey1u8v/static/js/main.fd20e51f.chunk.js",
+    "main.js.map": "https://hannastockholm22.github.io/csb-ey1u8v/static/js/main.fd20e51f.chunk.js.map",
+    "runtime-main.js": "https://hannastockholm22.github.io/csb-ey1u8v/static/js/runtime-main.3dc320d0.js",
+    "runtime-main.js.map": "https://hannastockholm22.github.io/csb-ey1u8v/static/js/runtime-main.3dc320d0.js.map",
+    "static/js/2.327ed007.chunk.js": "https://hannastockholm22.github.io/csb-ey1u8v/static/js/2.327ed007.chunk.js",
+    "static/js/2.327ed007.chunk.js.map": "https://hannastockholm22.github.io/csb-ey1u8v/static/js/2.327ed007.chunk.js.map",
+    "index.html": "https://hannastockholm22.github.io/csb-ey1u8v/index.html",
+    "static/js/2.327ed007.chunk.js.LICENSE.txt": "https://hannastockholm22.github.io/csb-ey1u8v/static/js/2.327ed007.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dc320d0.js",
+    "static/js/2.327ed007.chunk.js",
+    "static/js/main.fd20e51f.chunk.js"
+  ]
+}
